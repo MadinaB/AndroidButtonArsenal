@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DBC0A6</color>
+    <color name="colorPrimaryDark">#F3D8BE</color>
+    <color name="colorAccent">#F3D8BE</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="focusedStartColor">#EAC4C0</color>
+    <color name="focusedCenterColor">#DCB6BA</color>
+    <color name="focusedEndColor">#F2D7D5</color>
+
+    <color name="disabledStartColor">#E1CCBD</color>
+    <color name="disabledCenterColor">#C38F7E</color>
+    <color name="disabledEndColor">#FBECE2</color>
+
+    <color name="enabledStartColor">#F3D8BE</color>
+    <color name="enabledCenterColor">#DBC0A6</color>
+    <color name="enabledEndColor">#F3D8BE</color>
+
+    <color name="pressedStartColor">#FFCAD6</color>
+    <color name="pressedCenterColor">#D5ABAD</color>
+    <color name="pressedEndColor">#FFCBD7</color>
+
+</resources>
